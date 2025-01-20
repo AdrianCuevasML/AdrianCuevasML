@@ -51,12 +51,3 @@ Welcome to my GitHub profile! I am a **Mechanical Engineer turned Cloud Computin
 
 ---
 
-## 📫 Connect with Me
-
-- LinkedIn: [Adrian Cuevas](https://www.linkedin.com/in/adrian-cuevas-tavizon-devops-ai/)
-- Email: cuevastavizonadrian@gmail.com
-
----
-
-**💡 I am always open to collaboration and learning opportunities in the fields of Cloud Computing, MLOps, and AI. Feel free to reach out!**
-
