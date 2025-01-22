@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm Adrian Cuevas Tavizon 
 
-Welcome to my GitHub profile! I am a **Mechanical Engineer turned Cloud Computing and AI enthusiast**, with a strong focus on **MLOps, DevOps, and scalable cloud infrastructures**. My passion lies in **building intelligent, reliable, and automated solutions** that bridge the gap between AI models and production-ready deployments.
+Welcome to my GitHub profile! I am a Mechanical Engineer who has successfully transitioned into **Cloud Computing, DevOps and AI**, driven by a **passion for optimizing and automating complex systems**. Through my experience in cloud infrastructures, machine learning, and DevOps, I focus on designing intelligent and adaptive solutions that enhance efficiency and decision-making in dynamic environments. My engineering background, combined with my growing expertise in AI and optimization techniques, enables me to tackle real-world challenges by integrating data-driven insights with practical implementations. I believe in the transformative power of MLOps to bridge the gap between AI models and real-world systems, ensuring scalability, reliability, and continuous improvement. I am committed to leveraging these technologies to build innovative and impactful solutions that contribute to a better, smarter, and more connected future for everyone.
 
 ---
 
